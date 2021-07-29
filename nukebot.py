@@ -132,4 +132,4 @@ async def clear(ctx, amount=3):
 async def ban(ctx, member : discord.member, *, reason=None):
     await member.ban(reason=reason)
 
-client.run('ODYwOTg4ODM3MzkxMzY4MjMy.YODQVw.jaRGvVTTbfhlERnPwU-0bCdYc3g')
+client.run('')
